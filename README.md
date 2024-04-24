@@ -1,4 +1,4 @@
-### Hi, I'm developing tools for design automation in BIM in .NET F# C#.
+### Hi, I'm developing tools for design automation in BIM in .NET F# C#
 
 <!--
 **min44/min44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
